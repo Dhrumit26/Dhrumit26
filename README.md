@@ -145,8 +145,9 @@ Software Engineer with hands-on experience building **scalable backend services*
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhrumit26&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrumit26&theme=tokyonight&hide_border=true" />
 </div>
+
 
 
 
