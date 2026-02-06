@@ -139,11 +139,14 @@ Software Engineer with hands-on experience building **scalable backend services*
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dhrumit26&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dhrumit26&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-red-seven-77.vercel.app/api?username=Dhrumit26&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-red-seven-77.vercel.app/api/top-langs/?username=Dhrumit26&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=Dhrumit26&theme=tokyonight&hide_border=true" />
 </div>
+
 
 
 
