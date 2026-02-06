@@ -139,20 +139,12 @@ Software Engineer with hands-on experience building **scalable backend services*
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhrumit26&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrumit26&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrumit26&theme=tokyonight" />
-</p>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhrumit26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Dhrumit's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumit26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com/?user=dhrumit26&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dhrumit26&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dhrumit26&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Dhrumit26&theme=tokyonight&hide_border=true" />
 </div>
+
 
 
 ## 🌱 Currently Learning
