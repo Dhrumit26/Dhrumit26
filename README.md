@@ -140,17 +140,6 @@ Software Engineer with hands-on experience building **scalable backend services*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-red-seven-77.vercel.app/api?username=Dhrumit26&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-red-seven-77.vercel.app/api/top-langs/?username=Dhrumit26&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrumit26&theme=tokyonight&hide_border=true" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
   <img src="https://github-readme-stats-red-seven-77.vercel.app/api?username=Dhrumit26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
@@ -164,12 +153,6 @@ Software Engineer with hands-on experience building **scalable backend services*
   <img src="https://github-readme-stats-red-seven-77.vercel.app/api/pin/?username=Dhrumit26&repo=BeachBank&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats-red-seven-77.vercel.app/api/pin/?username=Dhrumit26&repo=Netflix-DevOps&theme=tokyonight&hide_border=true" />
 </div>
-
-
-
-
-
-
 
 ## 🌱 Currently Learning
 
